@@ -6,7 +6,7 @@ This repo is for updating the weekly status.
 Network Classification: https://colab.research.google.com/drive/16MIKiFIxYF8M8sf8dyQomq8vysRZqHz2
 
 # 
-- Socket Programmin 
+- Socket Programming
 - ML
 - Scapy
 - Cisco Packet Tracer
